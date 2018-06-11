@@ -22,6 +22,8 @@ public class StringTest {
 
         System.out.println("a=" + a);
 
+        System.out.println("test0611");
+
         a = "456";
         System.out.println("a=" + a);
 
